@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/common-core.iml" filepath="$PROJECT_DIR$/common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc-util/jdbc-util.iml" filepath="$PROJECT_DIR$/jdbc-util/jdbc-util.iml" />
     </modules>
   </component>
 </project>

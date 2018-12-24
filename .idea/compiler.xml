@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="common-core" />
+        <module name="jdbc-util" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="common-core" target="1.7" />
+      <module name="jdbc-util" target="1.7" />
+      <module name="jdbcutil" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
